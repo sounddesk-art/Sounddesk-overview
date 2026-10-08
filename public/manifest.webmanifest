@@ -1,0 +1,17 @@
+{
+  "name": "Sounddesk Portfolio Overview",
+  "short_name": "Sounddesk",
+  "description": "Read-only portfolio analytics for Sounddesk Enterprise.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0e1115",
+  "theme_color": "#0e1115",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
