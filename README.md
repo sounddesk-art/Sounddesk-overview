@@ -13,3 +13,12 @@ The application is observation-only. All decisions and consequential actions rem
 The public snapshot is validated by an explicit allowlist before every build. The source tree is also checked to prevent forms, action buttons, browser credential storage, cookies, or authorization headers from being introduced accidentally.
 
 If a field is not required for the public overview, it stays out.
+
+
+## Live site
+
+GitHub Pages deployment is enabled and publishes the validated build at:
+
+https://sounddesk-art.github.io/Sounddesk-overview/
+
+The site is intentionally public but discouraged from search-engine indexing. It is not an access-controlled private application.
