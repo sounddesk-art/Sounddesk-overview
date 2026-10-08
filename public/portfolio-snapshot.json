@@ -1,0 +1,70 @@
+{
+  "mode": "demo",
+  "updatedAt": "2026-10-08T20:57:00Z",
+  "portfolio": {
+    "activeExperiments": 0,
+    "totalViews": 0,
+    "followers": 0
+  },
+  "experiments": [
+    {
+      "id": "virtual-lifestyle-character",
+      "name": "Virtual Lifestyle Character",
+      "status": "draft",
+      "views": 0,
+      "followers": 0,
+      "retention": 0,
+      "trend": [0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+      "id": "future-environments",
+      "name": "Future Environments",
+      "status": "draft",
+      "views": 0,
+      "followers": 0,
+      "retention": 0,
+      "trend": [0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+      "id": "recurring-visual-comedy",
+      "name": "Recurring Visual Comedy",
+      "status": "draft",
+      "views": 0,
+      "followers": 0,
+      "retention": 0,
+      "trend": [0, 0, 0, 0, 0, 0, 0]
+    }
+  ],
+  "providers": [
+    {
+      "name": "YouTube",
+      "state": "not_connected",
+      "accounts": 0,
+      "views": 0
+    },
+    {
+      "name": "Instagram",
+      "state": "not_connected",
+      "accounts": 0,
+      "views": 0
+    },
+    {
+      "name": "TikTok",
+      "state": "not_connected",
+      "accounts": 0,
+      "views": 0
+    },
+    {
+      "name": "Pinterest",
+      "state": "planned",
+      "accounts": 0,
+      "views": 0
+    }
+  ],
+  "signals": {
+    "rising": 0,
+    "flat": 0,
+    "falling": 0,
+    "note": "Demo-Übersicht. Echte Entscheidungen und Aktionen erfolgen ausschliesslich im Sounddesk Master-Chat."
+  }
+}
