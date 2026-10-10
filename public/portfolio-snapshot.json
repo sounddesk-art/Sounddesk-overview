@@ -1,6 +1,6 @@
 {
   "mode": "demo",
-  "updatedAt": "2026-10-08T20:57:00Z",
+  "updatedAt": "2026-10-10T11:16:00Z",
   "portfolio": {
     "activeExperiments": 0,
     "totalViews": 0,
@@ -14,7 +14,15 @@
       "views": 0,
       "followers": 0,
       "retention": 0,
-      "trend": [0, 0, 0, 0, 0, 0, 0]
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
     },
     {
       "id": "future-environments",
@@ -23,7 +31,15 @@
       "views": 0,
       "followers": 0,
       "retention": 0,
-      "trend": [0, 0, 0, 0, 0, 0, 0]
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
     },
     {
       "id": "recurring-visual-comedy",
@@ -32,25 +48,124 @@
       "views": 0,
       "followers": 0,
       "retention": 0,
-      "trend": [0, 0, 0, 0, 0, 0, 0]
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "swiss-trades-onepage",
+      "name": "Swiss Trades One-Page Website Service",
+      "status": "draft",
+      "views": 0,
+      "followers": 0,
+      "retention": 0,
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "sketch-to-concept-render",
+      "name": "Sketch-to-Concept Visualization Service",
+      "status": "draft",
+      "views": 0,
+      "followers": 0,
+      "retention": 0,
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "home-service-automation",
+      "name": "Home-Service Automation Starter Pack",
+      "status": "draft",
+      "views": 0,
+      "followers": 0,
+      "retention": 0,
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "ecom-listing-pack",
+      "name": "E-commerce Listing Visual + Catalog Pack",
+      "status": "draft",
+      "views": 0,
+      "followers": 0,
+      "retention": 0,
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "swiss-trades-toolkit",
+      "name": "Swiss Trades Quote / Estimate Toolkit",
+      "status": "draft",
+      "views": 0,
+      "followers": 0,
+      "retention": 0,
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
     }
   ],
   "providers": [
     {
+      "name": "Metricool",
+      "state": "planned",
+      "accounts": 0,
+      "views": 0
+    },
+    {
       "name": "YouTube",
-      "state": "not_connected",
+      "state": "planned",
       "accounts": 0,
       "views": 0
     },
     {
       "name": "Instagram",
-      "state": "not_connected",
+      "state": "planned",
       "accounts": 0,
       "views": 0
     },
     {
       "name": "TikTok",
-      "state": "not_connected",
+      "state": "planned",
       "accounts": 0,
       "views": 0
     },
